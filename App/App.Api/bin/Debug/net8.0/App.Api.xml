@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>App.Api</name>
+    </assembly>
+    <members>
+        <member name="T:App.Api.Controllers.CoursesController">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.CoursesController.ObtenerCursos">
+            <summary>
+            Obtiene todos los cursos de la Tabla.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.CoursesController.ObtenerCursoPorId(System.Int32)">
+            <summary>
+            Obtiene todos los cursos de la Tabla por id.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.CoursesController.CrearCurso(App.Dominio.Entities.Curso)">
+            <summary>
+            Inserta registro en la tabla cursos
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.CoursesController.ActualizarCurso(System.Int32,App.Dominio.Entities.Curso)">
+            <summary>
+            Actualiza registro en la tabla cursos
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.CoursesController.EliminarCurso(System.Int32)">
+            <summary>
+            Elimina registro en la tabla cursos
+            </summary>
+        </member>
+        <member name="T:App.Api.Controllers.EstudiantesController">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.GetEstudiantes">
+            <summary>
+            Obtiene todos los Estudiantes de la Tabla.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.GetEstudiante(System.Int32)">
+            <summary>
+            Obtiene un estudiante dependiendo del ID que se consulte
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.CrearEstudiante(App.Dominio.Entities.Estudiante)">
+            <summary>
+            Inserta registro en la tabla estudiante
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.ActualizarEstudiante(System.Int32,App.Dominio.Entities.Estudiante)">
+            <summary>
+            Actualiza registro en la tabla estudiante
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.EliminarEstudiante(System.Int32)">
+            <summary>
+            EndPoint Elimina Usuarios del Sistema.
+            </summary>
+        </member>
+        <member name="T:App.Api.Controllers.TeacherController">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.TeacherController.ObtenerProfesores">
+            <summary>
+            Obtiene todos los profesores de la Tabla.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.TeacherController.ObtenerProfesorPorId(System.Int32)">
+            <summary>
+            Obtiene todos los profesores de la Tabla por id.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.TeacherController.CrearProfesor(App.Dominio.Entities.Profesores)">
+            <summary>
+            Inserta registro en la tabla profesores
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.TeacherController.ActualizarProfesor(System.Int32,App.Dominio.Entities.Profesores)">
+            <summary>
+            Actualiza registro en la tabla profesores
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.TeacherController.EliminarProfesor(System.Int32)">
+            <summary>
+            Elimina registro en la tabla profesores
+            </summary>
+        </member>
+    </members>
+</doc>

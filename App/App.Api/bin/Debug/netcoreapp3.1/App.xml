@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>App.Api</name>
+    </assembly>
+    <members>
+        <member name="T:App.Api.Controllers.EstudiantesController">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.#ctor(App.Api.Services.IEstudianteRepository)">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.GetEstudiantes">
+            <summary>
+            Obtiene todos los Estudiantes de la Tabla.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.GetEstudiante(System.Int32)">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.CrearEstudiante(App.Dominio.Entities.Estudiante)">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.ActualizarEstudiante(System.Int32,App.Dominio.Entities.Estudiante)">
+            <summary>
+            Controlador para gestionar estudiantes en el sistema.
+            </summary>
+        </member>
+        <member name="M:App.Api.Controllers.EstudiantesController.EliminarEstudiante(System.Int32)">
+            <summary>
+            EndPoint Elimina Usuarios del Sistema.
+            </summary>
+        </member>
+    </members>
+</doc>

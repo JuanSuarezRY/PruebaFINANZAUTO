@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\App\App.Aplicacion\bin\Debug\net8.0\App.Aplicacion.deps.json
+C:\Users\andre\source\repos\App\App.Aplicacion\bin\Debug\net8.0\App.Aplicacion.dll
+C:\Users\andre\source\repos\App\App.Aplicacion\bin\Debug\net8.0\App.Aplicacion.pdb
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Aplicacion.AssemblyInfo.cs
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Aplicacion.dll
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\refint\App.Aplicacion.dll
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Aplicacion.pdb
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\ref\App.Aplicacion.dll
+C:\Users\andre\source\repos\App\App.Aplicacion\bin\Debug\net8.0\App.Dominio.dll
+C:\Users\andre\source\repos\App\App.Aplicacion\bin\Debug\net8.0\App.Dominio.pdb
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\App\App.Aplicacion\obj\Debug\net8.0\App.Apli.83031371.Up2Date

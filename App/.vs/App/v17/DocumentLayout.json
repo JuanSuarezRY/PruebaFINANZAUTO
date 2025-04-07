@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|c:\\users\\andre\\source\\repos\\app\\app.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|solutionrelative:app.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|c:\\users\\andre\\source\\repos\\app\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|solutionrelative:app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|c:\\users\\andre\\source\\repos\\app\\app.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|solutionrelative:app.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|c:\\users\\andre\\source\\repos\\app\\app.infraestructura\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|solutionrelative:app.infraestructura\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|c:\\users\\andre\\source\\repos\\app\\app.infraestructura\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|solutionrelative:app.infraestructura\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|c:\\users\\andre\\source\\repos\\app\\app.aplicacion\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|solutionrelative:app.aplicacion\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7B46C-A7CB-4C04-88EA-7FD0BE127512}|App.Dominio\\App.Dominio.csproj|c:\\users\\andre\\source\\repos\\app\\app.dominio\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7B46C-A7CB-4C04-88EA-7FD0BE127512}|App.Dominio\\App.Dominio.csproj|solutionrelative:app.dominio\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD7B46C-A7CB-4C04-88EA-7FD0BE127512}|App.Dominio\\App.Dominio.csproj|c:\\users\\andre\\source\\repos\\app\\app.dominio\\entities\\calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD7B46C-A7CB-4C04-88EA-7FD0BE127512}|App.Dominio\\App.Dominio.csproj|solutionrelative:app.dominio\\entities\\calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|c:\\users\\andre\\source\\repos\\app\\app.aplicacion\\interfaces\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|solutionrelative:app.aplicacion\\interfaces\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|c:\\users\\andre\\source\\repos\\app\\app.aplicacion\\interfaces\\iautorizacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|solutionrelative:app.aplicacion\\interfaces\\iautorizacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|c:\\users\\andre\\source\\repos\\app\\app.aplicacion\\dtos\\autorizacion\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|solutionrelative:app.aplicacion\\dtos\\autorizacion\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|c:\\users\\andre\\source\\repos\\app\\app.api\\app.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|solutionrelative:app.api\\app.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|c:\\users\\andre\\source\\repos\\app\\app.infraestructura\\repositories\\autorizacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|solutionrelative:app.infraestructura\\repositories\\autorizacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|c:\\users\\andre\\source\\repos\\app\\app.aplicacion\\app.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|solutionrelative:app.aplicacion\\app.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|c:\\users\\andre\\source\\repos\\app\\app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|solutionrelative:app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|c:\\users\\andre\\source\\repos\\app\\app.infraestructura\\app.infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|solutionrelative:app.infraestructura\\app.infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|c:\\users\\andre\\source\\repos\\app\\app.aplicacion\\dtos\\autorizacion\\autorizacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D37DA-FAC5-4780-823B-8475F169389B}|App.Aplicacion\\App.Aplicacion.csproj|solutionrelative:app.aplicacion\\dtos\\autorizacion\\autorizacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|c:\\users\\andre\\source\\repos\\app\\app.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B36DB2A-0837-45FC-9543-D0079ABB958E}|App.Api\\App.Api.csproj|solutionrelative:app.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|c:\\users\\andre\\source\\repos\\app\\app.infraestructura\\context\\dbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|solutionrelative:app.infraestructura\\context\\dbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|c:\\users\\andre\\source\\repos\\app\\app.infraestructura\\migrations\\20250407153711_tablas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC70C2F8-0B78-48E2-A1B0-91E0D560C10D}|App.Infraestructura\\App.Infraestructura.csproj|solutionrelative:app.infraestructura\\migrations\\20250407153711_tablas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "App.Api\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "App.Api\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:50:15.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "App.Api\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "App.Api\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:49:52.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\Interfaces\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "App.Aplicacion\\Interfaces\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\Interfaces\\ITeacherRepository.cs",
+              "RelativeToolTip": "App.Aplicacion\\Interfaces\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:43:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "App.Infraestructura\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "App.Infraestructura\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:39:41.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "App.Infraestructura\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "App.Infraestructura\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:39:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAutorizacionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\Interfaces\\IAutorizacionRepository.cs",
+              "RelativeDocumentMoniker": "App.Aplicacion\\Interfaces\\IAutorizacionRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\Interfaces\\IAutorizacionRepository.cs",
+              "RelativeToolTip": "App.Aplicacion\\Interfaces\\IAutorizacionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:09:10.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Program.cs",
+              "RelativeDocumentMoniker": "App.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Program.cs",
+              "RelativeToolTip": "App.Api\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:06:26.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutorizacionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionResponse.cs",
+              "RelativeDocumentMoniker": "App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionResponse.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionResponse.cs",
+              "RelativeToolTip": "App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:48:55.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Dominio\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "App.Dominio\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Dominio\\Entities\\Usuario.cs",
+              "RelativeToolTip": "App.Dominio\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:18:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Dominio\\Entities\\Calificaciones.cs",
+              "RelativeDocumentMoniker": "App.Dominio\\Entities\\Calificaciones.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Dominio\\Entities\\Calificaciones.cs",
+              "RelativeToolTip": "App.Dominio\\Entities\\Calificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:10:56.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEstudianteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\Interfaces\\IEstudianteRepository.cs",
+              "RelativeDocumentMoniker": "App.Aplicacion\\Interfaces\\IEstudianteRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\Interfaces\\IEstudianteRepository.cs",
+              "RelativeToolTip": "App.Aplicacion\\Interfaces\\IEstudianteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:09:59.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.Aplicacion.csproj",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\App.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "App.Aplicacion\\App.Aplicacion.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\App.Aplicacion.csproj",
+              "RelativeToolTip": "App.Aplicacion\\App.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T15:54:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.Api",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\App.Api.csproj",
+              "RelativeDocumentMoniker": "App.Api\\App.Api.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\App.Api.csproj",
+              "RelativeToolTip": "App.Api\\App.Api.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T20:49:46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutorizacionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Repositories\\AutorizacionRepository.cs",
+              "RelativeDocumentMoniker": "App.Infraestructura\\Repositories\\AutorizacionRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Repositories\\AutorizacionRepository.cs",
+              "RelativeToolTip": "App.Infraestructura\\Repositories\\AutorizacionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:10:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.Infraestructura.csproj",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\App.Infraestructura.csproj",
+              "RelativeDocumentMoniker": "App.Infraestructura\\App.Infraestructura.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\App.Infraestructura.csproj",
+              "RelativeToolTip": "App.Infraestructura\\App.Infraestructura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T16:45:31.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutorizacionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionRequest.cs",
+              "RelativeDocumentMoniker": "App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionRequest.cs",
+              "RelativeToolTip": "App.Aplicacion\\DTOS\\Autorizacion\\AutorizacionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:48:25.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "App.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\appsettings.json",
+              "RelativeToolTip": "App.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T22:29:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "App.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "App.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:44:36.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Context\\DbAppContext.cs",
+              "RelativeDocumentMoniker": "App.Infraestructura\\Context\\DbAppContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Context\\DbAppContext.cs",
+              "RelativeToolTip": "App.Infraestructura\\Context\\DbAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:09:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250407153711_Tablas2.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Migrations\\20250407153711_Tablas2.cs",
+              "RelativeDocumentMoniker": "App.Infraestructura\\Migrations\\20250407153711_Tablas2.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\App\\App.Infraestructura\\Migrations\\20250407153711_Tablas2.cs",
+              "RelativeToolTip": "App.Infraestructura\\Migrations\\20250407153711_Tablas2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:37:12.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
